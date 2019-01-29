@@ -1,0 +1,28 @@
+Administração
+Agronomia
+Biologia
+Ciências Contábeis
+Ciências Econômicas
+Direito
+Engenharia Civil
+Engenharia da Computação
+Engenharia de Alimentos
+Enfermagem
+Educação Física
+Farmácia
+Física
+Filosofia
+Geografia
+História
+Letras e Artes
+Letras Vernáculas
+Letras c/ Inglês
+Letras c/ Francês
+Letras c/ Espanhol
+Matemática
+Medicina
+Música
+Pedagogia
+Psicologia
+Odontologia
+Química
